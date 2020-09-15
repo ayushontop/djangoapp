@@ -1,2 +1,2 @@
 # djangoapp
-A web app made on django
+A web app made on django .
