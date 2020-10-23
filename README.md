@@ -1,2 +1,4 @@
 # djangoapp
-A web app made on django .
+A web app made on django . In future more features will be added 
+
+Django is a Python-based free and open-source web framework that follows the model-template-views architectural pattern. It is maintained by the Django Software Foundation, an American independent organization established as a 501 non-profit
